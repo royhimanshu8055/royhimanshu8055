@@ -12,7 +12,6 @@ I am a Computer Science student. I am learning programming and web development. 
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" alt="Microsoft Excel" />
