@@ -1,22 +1,25 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:3b82f6&height=220&section=header&text=Abhay%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20(2027)%20%7C%20Data%20Analytics%20%E2%80%A2%20Python%20%E2%80%A2%20Web%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Abhay Kumar Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:06b6d4&height=220&section=header&text=Hi%2C%20I'm%20Abhay%20Kumar%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20Data%20Analytics%20%7C%20Web%20Development%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Abhay Kumar Header Banner" />
 
-<!-- Animated Typing Subtitle -->
+<!-- Animated Typing Headline -->
 <a href="https://github.com/royhimanshu8055">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhay+Kumar+%F0%9F%91%8B;B.Tech+Computer+Science+Engineering+(2027);Ambalika+Institute+of+Management+and+Technology;Data+Analytics+%7C+Python+%7C+Web+Development;Exploring+AI-Powered+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+Developer+%7C+Data+Analytics+%7C+Web+Development;B.Tech+Computer+Science+Engineering+(2027);Ambalika+Institute+of+Management+and+Technology+%7C+India" alt="Typing SVG" />
 </a>
 
 <br />
 
-<!-- Social Links -->
+<!-- Social & Contact Links -->
 <p>
   <a href="https://www.linkedin.com/in/abhay-kumar-511978345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   <a href="https://github.com/royhimanshu8055" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
   </a>
 </p>
 
@@ -26,20 +29,20 @@
 
 ## 👨‍💻 About Me
 
-I am **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** student at **Ambalika Institute of Management and Technology**. I am passionate about building practical software solutions, uncovering insights from data, and designing clean, responsive web experiences.
+Hello! I'm **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** student at **Ambalika Institute of Management and Technology**, based in **India**. I enjoy solving real-world problems with **Python**, analyzing structured data using **SQL & Excel**, and building clean, responsive web applications.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (2027) — *Ambalika Institute of Management and Technology*
-- 💡 **Focus Areas:** Data Analytics, Python Development, Web Development, and AI-powered problem solving
-- 🛠️ **Core Stack:** Python, C, SQL, MySQL, Microsoft Excel, HTML, CSS, JavaScript
-- 🌱 **Currently Exploring:** Building end-to-end analytics workflows, interactive web applications, and AI-assisted tools
+- 🎓 **Education:** B.Tech Computer Science Engineering (2027) — *Ambalika Institute of Management and Technology*
+- 📍 **Location:** India
+- 💼 **Focus:** Python Developer | Data Analytics | Web Development | Computer Science Student
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/abhay-kumar-511978345/) • `YOUR_EMAIL@example.com` *(replace with your email)*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Languages & Core Technologies
+### Programming & Databases
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
@@ -47,7 +50,7 @@ I am **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** 
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
 </p>
 
-### Web & Analytics Tools
+### Web Development & Analytics Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3" />
@@ -55,60 +58,67 @@ I am **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** 
   <img src="https://img.shields.io/badge/Microsoft_Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" alt="Microsoft Excel" />
 </p>
 
+### Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+</p>
+
 <br />
 
-<img src="https://skillicons.dev/icons?i=py,c,mysql,html,css,js&theme=dark" alt="Tech Icons" />
+<img src="https://skillicons.dev/icons?i=py,c,mysql,html,css,js,git,github&theme=dark" alt="Technical Skills Icons" />
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 🌱 Currently Learning
 
-| Domain | Focus |
-| :--- | :--- |
-| 📊 **Data Analytics** | Data cleaning, exploratory analysis, SQL querying, and spreadsheet modeling with Excel & Python |
-| 🐍 **Python Development** | Scripting, automation, data processing, and building structured problem-solving utilities |
-| 🌐 **Web Development** | Crafting responsive, user-friendly interfaces using HTML, CSS, and JavaScript |
-| 🤖 **AI-Powered Problem Solving** | Leveraging modern AI tools and workflows to solve real-world engineering and analytical challenges |
+- 📊 **Data Analytics & Visualization** — Strengthening exploratory data analysis, SQL querying, and spreadsheet reporting workflows.
+- 🐍 **Python & Problem Solving** — Writing clean, modular Python scripts and practicing core CS fundamentals.
+- 🌐 **Full-Stack Web Foundations** — Advancing JavaScript interactivity and responsive UI design.
+- 🤖 **AI-Powered Problem Solving** — Exploring practical ways to integrate AI tools into development and analytical workflows.
 
 ---
 
 ## 🚀 Featured Projects
 
-> **Note:** Replace the placeholders below with your actual project titles, descriptions, and repository links before publishing.
+> **Note:** Add your repository links below once your project repositories are published on GitHub.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Analytics Project</h3>
-      <p><em>Add a brief description of your data analysis or dashboard project (e.g., dataset analyzed, insights uncovered, or visualizations built).</em></p>
+      <h3>📚 ShelfWise – Library Management Database</h3>
+      <p>A relational database project designed to organize book inventory, member records, issue/return tracking, and structured SQL queries.</p>
       <p>
-        <strong>Tech:</strong> Python • SQL • Microsoft Excel<br />
+        <strong>Tech Stack:</strong> SQL • MySQL<br />
+        <strong>Repo:</strong> <em>Add your repository link here</em>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Web Development Project</h3>
-      <p><em>Add a brief description of your web application or frontend project (e.g., key features, responsive design, and user workflow).</em></p>
+      <h3>📊 Data Analytics Projects</h3>
+      <p>Data cleaning, exploratory analysis, and insight-driven reporting projects built using Python, SQL queries, and Microsoft Excel.</p>
       <p>
-        <strong>Tech:</strong> HTML • CSS • JavaScript<br />
+        <strong>Tech Stack:</strong> Python • SQL • Microsoft Excel<br />
+        <strong>Repo:</strong> <em>Add your repository link here</em>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 Python Automation / AI Tool</h3>
-      <p><em>Add a brief description of a Python script, CLI utility, or AI-powered problem-solving project you built.</em></p>
+      <h3>🌐 Web Development Projects</h3>
+      <p>Responsive, user-friendly web pages and interactive frontend interfaces crafted with semantic markup, modern layouts, and JavaScript.</p>
       <p>
-        <strong>Tech:</strong> Python • AI Workflow<br />
+        <strong>Tech Stack:</strong> HTML • CSS • JavaScript<br />
+        <strong>Repo:</strong> <em>Add your repository link here</em>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ Database Management System</h3>
-      <p><em>Add a brief description of a relational database schema or SQL/MySQL mini-project you designed.</em></p>
+      <h3>🐍 Python Projects</h3>
+      <p>Practical Python scripts, automation utilities, and problem-solving programs focused on clean logic and real-world usability.</p>
       <p>
-        <strong>Tech:</strong> SQL • MySQL • C / Python<br />
-
+        <strong>Tech Stack:</strong> Python • C • Git<br />
+        <strong>Repo:</strong> <em>Add your repository link here</em>
       </p>
     </td>
   </tr>
@@ -116,27 +126,27 @@ I am **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** 
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Contribution Statistics
 
 <div align="center">
 
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=royhimanshu8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=3b82f6&text_color=e2e8f0" alt="Abhay Kumar's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=royhimanshu8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0" alt="Abhay Kumar's GitHub Stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royhimanshu8055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=royhimanshu8055&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=3b82f6&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=royhimanshu8055&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=06b6d4&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
 </p>
 
 </div>
 
 ---
 
-## 📅 Contribution Graph
+## 📅 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royhimanshu8055&bg_color=0d1117&color=38bdf8&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royhimanshu8055&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -145,7 +155,7 @@ I am **Abhay Kumar**, a **B.Tech Computer Science Engineering (Class of 2027)** 
 
 <div align="center">
 
-Let's connect and collaborate on **Data Analytics**, **Python**, **Web Development**, and **AI-powered projects**!
+Open to connecting, collaborating, and learning together!
 
 <p>
   <a href="https://www.linkedin.com/in/abhay-kumar-511978345/" target="_blank">
@@ -154,8 +164,11 @@ Let's connect and collaborate on **Data Analytics**, **Python**, **Web Developme
   <a href="https://github.com/royhimanshu8055" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Follow on GitHub" />
   </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Contact_via_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Contact via Email" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0d1117&height=110&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0d1117&height=110&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
