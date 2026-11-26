@@ -22,8 +22,6 @@ I am a Computer Science student. I am learning programming and web development. 
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=py,c,mysql,html,css,js,git,github&theme=dark" alt="Tech Icons" />
-
 ---
 
 ## 📚 Currently Learning
